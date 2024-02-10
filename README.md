@@ -42,7 +42,9 @@ sudo nmap -sV < ip-адрес >
 
 ![suricata](https://github.com/dmitri13/13.3/blob/main/img/suricata.png)
 
+
 suricata записывает в логи, что есть подозрительный входящий трафик по портам и отмечает его как потенциально плохой трафик  
+
 fail2ban молчит, правил не настроено же
 ---
 
